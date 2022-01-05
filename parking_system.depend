@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1584172472 source:d:\dd\parking_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"qwerty.h"
+
+1584163434 source:d:\dd\parking_system\qwerty.c
+	"qwerty.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583833433 source:d:\dd\parking_system\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1584172752 d:\dd\parking_system\qwerty.h
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
